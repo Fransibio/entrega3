@@ -66,6 +66,7 @@ body {
   margin: 10px;
   padding: 5px 10px;
   font-weight: 700;
+  font-size: larger;
 }
 .button:hover {
   background-color: #000100;
@@ -84,13 +85,14 @@ body {
   margin: 10px;
   padding: 5px 10px;
   font-weight: 700;
+  font-size: larger;
 }
 .botones {
   display: flex;
+  margin-top: 20px;
 }
 .info {
   text-align: center;
-  max-width: fit-content;
 }
 .imagen-hero {
   padding: 2rem;
